@@ -1,0 +1,83 @@
+*
+{
+    padding:0;
+    margin:0;
+    line-height: 1.2em;
+}
+
+/*--- #MAIN-STYLE ---*/
+
+#header {
+    text-align: center;
+    padding-bottom: 6em;
+}
+
+#header h1 {
+    text-align: center;
+}
+    
+
+h1 {
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    color: #162738;
+    text-align: left;
+    padding-top: 1em;
+}
+
+.dark {
+    color: #99ffff;
+}
+
+.link {
+    color:#4173a9;
+}
+
+body {
+    background:#D8D8D8;
+    font-family: 'Century Gothic';
+    line-height: 1.8em;
+    padding-top: 3em;
+    width: 100%;
+    max-width: 800px;
+    min-width: 320px;
+    margin: auto;
+    color: #162738;
+}
+
+
+p { padding-top: 2em;
+    padding-bottom: 2em;}
+
+/*--- #IMAGES ---*/
+
+
+IMG.marque {
+    
+    display: block;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    max-height: 0%;
+}
+
+IMG.palette {
+    padding-top: 1em;
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    max-height: 60%;
+}
+
+IMG.lockup {
+    padding-top: 1em;
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+    max-height: 60%;
+}
